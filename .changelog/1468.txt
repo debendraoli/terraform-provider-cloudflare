@@ -1,0 +1,3 @@
+```release-note:bug
+resource/cloudflare_record: Fix 'allow_overwrite' when full domain name is used.
+```
